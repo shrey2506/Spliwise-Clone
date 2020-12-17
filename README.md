@@ -1,5 +1,6 @@
 # Splitwise Clone
 Baisc splitwise functionality using React.js
+Demo:- https://spliwise-clone.web.app/
 
 
 ## Usage
